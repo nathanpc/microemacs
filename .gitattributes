@@ -1,0 +1,4 @@
+# Windows-specific things should retain their CRLF line endings.
+*.dsp	text	eol=crlf
+*.dsw	text	eol=crlf
+*.bat	text	eol=crlf
