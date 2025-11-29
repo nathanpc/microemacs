@@ -1,0 +1,38 @@
+# Executable binaries.
+core
+me
+mec
+mew
+mecw
+ne
+nec
+new
+necw
+med
+medc
+medw
+medcw
+ned
+nedc
+nedw
+nedcw
+
+# Compilation artifacts.
+*.oc
+*.ow
+*.ob
+*.on
+*.ov
+*.oe
+
+# Debug compilation artifacts.
+*.odc
+*.odw
+*.odb
+*.odn
+*.odv
+*.ode
+
+# Spotless
+tags
+*~
