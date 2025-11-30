@@ -1,0 +1,16 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;  Author        : $Author$
+;  Created By    : Nathan Campos
+;  Created       : Sun Nov 30 16:17:51 2025
+;  Last Modified : <251130.1622>
+;
+;  New, saner, defaults to make MicroEmacs feel more at home for Nathan.
+;
+;  Copyright (c) 2025 Innove Workshop.
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+; Uses proper tabs for indentation.
+-1 global-mode "tab"
+set-variable $tab-width 4
